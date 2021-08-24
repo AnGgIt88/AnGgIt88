@@ -12,4 +12,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 ![](https://komarev.com/ghpvc/?username=AnGgIt86)
 
-![AnGgIt86 github stats](https://github-stats-alpha.vercel.app/api/?username=AnGgIt86&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
+![AnGgIt86 github stats](https://github-stats-alpha.vercel.app/api/?username=AnGgIt88&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
