@@ -13,3 +13,12 @@
 ![](https://komarev.com/ghpvc/?username=AnGgIt88)
 
 ![AnGgIt86 github stats](https://github-stats-alpha.vercel.app/api/?username=AnGgIt88&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
+
+## What's the weather
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnGgIt88&layout=compact&theme=dracula)](https://github.com/AnGgIt88)
+
+## Everyday-everynight
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AnGgIt88&theme=dracula)](https://github.com/AnGgIt88)
+
+## Thropy
+[![Thropy](https://github-profile-trophy.vercel.app/?username=AnGgIt88&row=2&column=3)](https://github.com/AnGgIt88)
