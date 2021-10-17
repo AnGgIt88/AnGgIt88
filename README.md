@@ -13,6 +13,3 @@
 ![](https://komarev.com/ghpvc/?username=AnGgIt88)
 
 ![AnGgIt86 github stats](https://github-stats-alpha.vercel.app/api/?username=AnGgIt88&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnGgIt88&layout=compact&theme=light)](https://github.com/AnGgIt88)
-[![Thropy](https://github-profile-trophy.vercel.app/?username=AnGgIt88&row=2&column=3)](https://github.com/AnGgIt88)
