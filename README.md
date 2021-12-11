@@ -1,4 +1,4 @@
-# Hey 👋, I'm [Finix-Projetcs](https://t.me/Bella_Aprilia_27)!
+# Hey 👋, I'm [FinixDev ™](https://t.me/Bella_Aprilia_27)!
 
 - <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="20px"> I'm from Indonesia
 - 🎓 I’m a college student 
